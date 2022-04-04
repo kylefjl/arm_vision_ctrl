@@ -1,5 +1,6 @@
 clear ;
 clc;
+close all;
 
 L1=Link([0       0.4      0.025    pi/2      0     ]); 
 L2=Link([pi/2    0        0.56     0         0     ]);
